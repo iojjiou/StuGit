@@ -1,1 +1,2 @@
 test info stu git
+test version 2
